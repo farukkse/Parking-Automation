@@ -1,0 +1,15 @@
+C:\Users\Ömer\Desktop\Otopark Otomasyonu\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.exe.config
+C:\Users\Ömer\Desktop\Otopark Otomasyonu\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.exe
+C:\Users\Ömer\Desktop\Otopark Otomasyonu\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.pdb
+C:\Users\Ömer\Desktop\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.csprojAssemblyReference.cache
+C:\Users\Ömer\Desktop\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.Anasayfa.resources
+C:\Users\Ömer\Desktop\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.OtoparkYerleri.resources
+C:\Users\Ömer\Desktop\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.Properties.Resources.resources
+C:\Users\Ömer\Desktop\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Ömer\Desktop\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.exe
+C:\Users\Ömer\Desktop\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.pdb
+C:\Users\Ömer\Desktop\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.AracKaydı.resources
+C:\Users\Ömer\Desktop\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.Markas.resources
+C:\Users\Ömer\Desktop\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.seri.resources
+C:\Users\Ömer\Desktop\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.AracCikis.resources
+C:\Users\Ömer\Desktop\Otopark Otomasyonu\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.Satis.resources
